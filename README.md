@@ -10,7 +10,7 @@
 {
    "languages" : ["PHP", "JavaScript", "Python"],
    "libraries": ["Bootstrap", "jQuery"],
-   "frameworks" : ["Laravel"],
+   "frameworks" : ["Laravel", "Vue"],
    "ide" : ["Visual Studio Code", "PyCharm", "Notepad++"],
    "tools": ["Git", "GitHub"],
    "webservers": ["Apache"],
