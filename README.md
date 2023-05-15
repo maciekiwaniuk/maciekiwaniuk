@@ -1,5 +1,5 @@
 # Hello 👋
-> My name is Maciek. I am a high school student majoring in software development.
+> My name is Maciek. I am a high school graduate majored in software development.
 
 ## Mainly focused on
 
