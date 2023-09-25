@@ -1,5 +1,5 @@
 # Hello 👋
-> My name is Maciek. I am a high school graduate majored in software development. I work as PHP Developer at [EBRAND](https://ebrand.com/).
+> My name is Maciek. I am a high school graduate majored in software development.
 
 ## Mainly focused on
 
