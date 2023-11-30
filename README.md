@@ -1,5 +1,5 @@
 # Hello 👋
-> My name is Maciek. I am a high school graduate majored in software development.
+> My name is Maciek. I am a student of computer science at Bialystok University of Technology.
 
 ## Mainly focused on
 
