@@ -1,10 +1,12 @@
 # Hello 👋
-> My name is Maciek. I am a student of computer science at Bialystok University of Technology.
+> My name is Maciek. I am a student of computer science at Bialystok University of Technology. I work as PHP Developer at [Transparent Data](https://transparentdata.pl/en).
 
 ## Mainly focused on
 
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![Symfony](https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF&label=)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ## Contact
 
