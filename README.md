@@ -1,5 +1,5 @@
 # Hello 👋
-> My name is Maciek. I am a student of computer science at Bialystok University of Technology. I work as PHP Developer at [Transparent Data](https://transparentdata.pl/en).
+> My name is Maciek. I am a student of computer science at Bialystok University of Technology. I work as Full-stack developer at [Transparent Data](https://transparentdata.pl/en).
 
 ## Mainly focused on
 
